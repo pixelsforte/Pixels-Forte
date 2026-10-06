@@ -23,6 +23,8 @@
     "postcss": "^8.5.26"
   },
   "devDependencies": {
+    "@eslint/eslintrc": "^3.3.1",
+    "@tailwindcss/postcss": "^4.3.3",
     "@types/node": "^22.9.0",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
@@ -30,7 +32,6 @@
     "autoprefixer": "^10.4.20",
     "eslint": "^9.26.0",
     "eslint-config-next": "15.5.25",
-    "@eslint/eslintrc": "^3.3.1",
     "postcss": "^8.5.26",
     "tailwindcss": "^4.3.3",
     "typescript": "^5.6.3"
